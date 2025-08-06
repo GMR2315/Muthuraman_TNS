@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TNS_java {
+module tns_java {
 }
